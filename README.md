@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Sanjay Anuchuri
-- 👀 I’m interested in developing web applications
-- 🌱 I’m currently Working for Infosys in developing UI for their clients in React.js
-- 💞️ I’m looking to collaborate with someone who cares at most for UX
-- 📫 Reach me on 'sanjay.anuchuri@gmail.com'
+### Hi, I'm Sanjay Anuchuri 👋
 
-:orange_heart: :orange_heart: :orange_heart: Languages & Tools :
+## I'm a Front End Developer!
+
+- 👀 I’m interested in developing web applications which give the best User Experience
+- 🌱 I’m currently Working for Infosys in developing UI for their clients in React.js
+- 💞️ I’m looking to collaborate with other passionate developers
+- 📫 Mail me @ 'sanjay.anuchuri@gmail.com'
+
+## :orange_heart: :orange_heart: :orange_heart: Languages & Tools :
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
