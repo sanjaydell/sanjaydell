@@ -1,6 +1,6 @@
 ### Hi, I'm Sanjay Anuchuri 👋
 
-## I'm a Front End Developer!
+## I'm a Frontend Developer!
 
 - 👀 I’m interested in developing web applications which give the best User Experience
 - 🌱 I’m currently Working for Infosys in developing UI for their clients in React.js
