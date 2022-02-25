@@ -1,10 +1,10 @@
 ### Hi, I'm Sanjay Anuchuri 👋
 
-## I'm a Frontend Developer!
+## I'm a Frontend Developer! :technologist:
 
 - 👀 I’m interested in developing web applications which give the best User Experience
-- 🌱 I’m currently Working for Infosys in developing UI for their clients in React.js
-- 💞️ I’m looking to collaborate with other passionate developers
+- :man_technologist: I’m currently Working for Infosys in developing UI for their clients with React.js
+- :handshake: I’m looking to collaborate with other passionate developers
 - 📫 Mail me @ 'sanjay.anuchuri@gmail.com'
 
 ## :orange_heart: :orange_heart: :orange_heart: Languages & Tools :
@@ -23,7 +23,14 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Ruby" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
+<br/>
+<br/>
 
+## :gift_heart: :gift_heart: :gift_heart: My Websites
+
+<h3>My Portfolio -- <a href='https://sanjayanuchuri.netlify.app/'>https://sanjayanuchuri.netlify.app/</a><h3>
+<h3>Quick-Notes -- <a href='https://quick-notes-reactjs.netlify.app/'>https://quick-notes-reactjs.netlify.app/</a></h3>
+<h3>Quick-Notes -- <a href='https://sanjay-book.herokuapp.com/'>https://sanjay-book.herokuapp.com/</a></h3>
 <!---
 sanjaydell/sanjaydell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
