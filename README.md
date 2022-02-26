@@ -2,10 +2,10 @@
 
 ## I'm a Frontend Developer! :technologist:
 
-- 👀 I’m interested in developing web applications which give the best User Experience
-- :man_technologist: I’m currently Working for Infosys in developing UI for their clients with React.js
-- :handshake: I’m looking to collaborate with other passionate developers
-- 📫 Mail me @ 'sanjay.anuchuri@gmail.com'
+- <h3>👀 I’m interested in developing web applications which give the best User Experience</h3>
+- <h3>:man_technologist: I’m currently Working for Infosys in developing UI for their clients with React.js</h3>
+- <h3>:handshake: I’m looking to collaborate with other passionate developers</h3>
+- <h3>📫 Mail me @ 'sanjay.anuchuri@gmail.com'</h3>
 
 ## :orange_heart: :orange_heart: :orange_heart: Languages & Tools :
 
